@@ -1,0 +1,36 @@
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\UnitTestProjectMs\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\UnitTestProjectMs\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\UnitTestProjectMs\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\UnitTestProjectMs\bin\Debug\netcoreapp2.1\UnitTestProjectMs.deps.json
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\UnitTestProjectMs\bin\Debug\netcoreapp2.1\UnitTestProjectMs.runtimeconfig.json
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\UnitTestProjectMs\bin\Debug\netcoreapp2.1\UnitTestProjectMs.runtimeconfig.dev.json
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\UnitTestProjectMs\bin\Debug\netcoreapp2.1\UnitTestProjectMs.dll
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\UnitTestProjectMs\bin\Debug\netcoreapp2.1\UnitTestProjectMs.pdb
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\UnitTestProjectMs\bin\Debug\netcoreapp2.1\NetCoreCalculator.dll
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\UnitTestProjectMs\bin\Debug\netcoreapp2.1\NetCoreCalculator.pdb
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\UnitTestProjectMs\obj\Debug\netcoreapp2.1\UnitTestProjectMs.csprojAssemblyReference.cache
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\UnitTestProjectMs\obj\Debug\netcoreapp2.1\UnitTestProjectMs.csproj.CoreCompileInputs.cache
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\UnitTestProjectMs\obj\Debug\netcoreapp2.1\UnitTestProjectMs.AssemblyInfoInputs.cache
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\UnitTestProjectMs\obj\Debug\netcoreapp2.1\UnitTestProjectMs.AssemblyInfo.cs
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\UnitTestProjectMs\obj\Debug\netcoreapp2.1\UnitTestProjectMs.csproj.CopyComplete
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\UnitTestProjectMs\obj\Debug\netcoreapp2.1\UnitTestProjectMs.dll
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\UnitTestProjectMs\obj\Debug\netcoreapp2.1\UnitTestProjectMs.pdb
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\UnitTestProjectMs\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+C:\GitTest\New folder\CalculatriceSpecFlow\UnitTestProjectMs\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GitTest\New folder\CalculatriceSpecFlow\UnitTestProjectMs\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\GitTest\New folder\CalculatriceSpecFlow\UnitTestProjectMs\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GitTest\New folder\CalculatriceSpecFlow\UnitTestProjectMs\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+C:\GitTest\New folder\CalculatriceSpecFlow\UnitTestProjectMs\bin\Debug\netcoreapp2.1\UnitTestProjectMs.deps.json
+C:\GitTest\New folder\CalculatriceSpecFlow\UnitTestProjectMs\bin\Debug\netcoreapp2.1\UnitTestProjectMs.runtimeconfig.json
+C:\GitTest\New folder\CalculatriceSpecFlow\UnitTestProjectMs\bin\Debug\netcoreapp2.1\UnitTestProjectMs.runtimeconfig.dev.json
+C:\GitTest\New folder\CalculatriceSpecFlow\UnitTestProjectMs\bin\Debug\netcoreapp2.1\UnitTestProjectMs.dll
+C:\GitTest\New folder\CalculatriceSpecFlow\UnitTestProjectMs\bin\Debug\netcoreapp2.1\UnitTestProjectMs.pdb
+C:\GitTest\New folder\CalculatriceSpecFlow\UnitTestProjectMs\bin\Debug\netcoreapp2.1\NetCoreCalculator.dll
+C:\GitTest\New folder\CalculatriceSpecFlow\UnitTestProjectMs\bin\Debug\netcoreapp2.1\NetCoreCalculator.pdb
+C:\GitTest\New folder\CalculatriceSpecFlow\UnitTestProjectMs\obj\Debug\netcoreapp2.1\UnitTestProjectMs.csprojAssemblyReference.cache
+C:\GitTest\New folder\CalculatriceSpecFlow\UnitTestProjectMs\obj\Debug\netcoreapp2.1\UnitTestProjectMs.csproj.CoreCompileInputs.cache
+C:\GitTest\New folder\CalculatriceSpecFlow\UnitTestProjectMs\obj\Debug\netcoreapp2.1\UnitTestProjectMs.AssemblyInfoInputs.cache
+C:\GitTest\New folder\CalculatriceSpecFlow\UnitTestProjectMs\obj\Debug\netcoreapp2.1\UnitTestProjectMs.AssemblyInfo.cs
+C:\GitTest\New folder\CalculatriceSpecFlow\UnitTestProjectMs\obj\Debug\netcoreapp2.1\UnitTestProjectMs.csproj.CopyComplete
+C:\GitTest\New folder\CalculatriceSpecFlow\UnitTestProjectMs\obj\Debug\netcoreapp2.1\UnitTestProjectMs.dll
+C:\GitTest\New folder\CalculatriceSpecFlow\UnitTestProjectMs\obj\Debug\netcoreapp2.1\UnitTestProjectMs.pdb

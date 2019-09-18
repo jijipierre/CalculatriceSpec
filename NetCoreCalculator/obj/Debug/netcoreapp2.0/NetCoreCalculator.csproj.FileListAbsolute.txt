@@ -1,0 +1,44 @@
+C:\Users\Pichau\source\repos\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.deps.json
+C:\Users\Pichau\source\repos\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.runtimeconfig.json
+C:\Users\Pichau\source\repos\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.runtimeconfig.dev.json
+C:\Users\Pichau\source\repos\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.dll
+C:\Users\Pichau\source\repos\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.pdb
+C:\Users\Pichau\source\repos\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Pichau\source\repos\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.dll
+C:\Users\Pichau\source\repos\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.pdb
+C:\Users\thiag\Source\Repos\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.deps.json
+C:\Users\thiag\Source\Repos\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.runtimeconfig.json
+C:\Users\thiag\Source\Repos\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.runtimeconfig.dev.json
+C:\Users\thiag\Source\Repos\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.dll
+C:\Users\thiag\Source\Repos\Articles\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.pdb
+C:\Users\thiag\Source\Repos\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.csprojAssemblyReference.cache
+C:\Users\thiag\Source\Repos\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Source\Repos\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.AssemblyInfoInputs.cache
+C:\Users\thiag\Source\Repos\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.AssemblyInfo.cs
+C:\Users\thiag\Source\Repos\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.dll
+C:\Users\thiag\Source\Repos\Articles\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.pdb
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.deps.json
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.runtimeconfig.json
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.runtimeconfig.dev.json
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.dll
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.pdb
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.csprojAssemblyReference.cache
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.csproj.CoreCompileInputs.cache
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.AssemblyInfoInputs.cache
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.AssemblyInfo.cs
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.dll
+C:\netcoreUnitTest\Calculatirce\NetCoreCalculator\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.pdb
+C:\GitTest\New folder\CalculatriceSpecFlow\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.deps.json
+C:\GitTest\New folder\CalculatriceSpecFlow\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.runtimeconfig.json
+C:\GitTest\New folder\CalculatriceSpecFlow\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.runtimeconfig.dev.json
+C:\GitTest\New folder\CalculatriceSpecFlow\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.dll
+C:\GitTest\New folder\CalculatriceSpecFlow\NetCoreCalculator\bin\Debug\netcoreapp2.0\NetCoreCalculator.pdb
+C:\GitTest\New folder\CalculatriceSpecFlow\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.csprojAssemblyReference.cache
+C:\GitTest\New folder\CalculatriceSpecFlow\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.csproj.CoreCompileInputs.cache
+C:\GitTest\New folder\CalculatriceSpecFlow\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.AssemblyInfoInputs.cache
+C:\GitTest\New folder\CalculatriceSpecFlow\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.AssemblyInfo.cs
+C:\GitTest\New folder\CalculatriceSpecFlow\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.dll
+C:\GitTest\New folder\CalculatriceSpecFlow\NetCoreCalculator\obj\Debug\netcoreapp2.0\NetCoreCalculator.pdb
